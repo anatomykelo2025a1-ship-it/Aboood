@@ -1,0 +1,605 @@
+{
+  "title": "Clinical Skills (50)",
+  "type": "mcq",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Macrosomia is defined as birth weight:",
+      "options": [
+        { "id": "A", "text": "2500–<3999 g" },
+        { "id": "B", "text": "<2500 g" },
+        { "id": "C", "text": ">4000 g" },
+        { "id": "D", "text": ">1000 g" },
+        { "id": "E", "text": "<4000 g" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 2,
+      "question": "Physical criteria of Expanded New Ballard Score, 1991 not include:",
+      "options": [
+        { "id": "A", "text": "Skin" },
+        { "id": "B", "text": "Palmar surface" },
+        { "id": "C", "text": "Eye/Ear" },
+        { "id": "D", "text": "Genitals (male/female)" },
+        { "id": "E", "text": "Breast" }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": 3,
+      "question": "The upper limit of heart rate in neonate in normal infant is:",
+      "options": [
+        { "id": "A", "text": "<100" },
+        { "id": "B", "text": "<120" },
+        { "id": "C", "text": "<140" },
+        { "id": "D", "text": "<160" },
+        { "id": "E", "text": "<180" }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following organs is affected more often by congenital anomalies?",
+      "options": [
+        { "id": "A", "text": "GI tract" },
+        { "id": "B", "text": "CNS" },
+        { "id": "C", "text": "Heart" },
+        { "id": "D", "text": "Kidney" },
+        { "id": "E", "text": "Eye" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 5,
+      "question": "The term which refers to thyroid gland enlargement:",
+      "options": [
+        { "id": "A", "text": "Myxedema" },
+        { "id": "B", "text": "Prognathism" },
+        { "id": "C", "text": "Goiter" },
+        { "id": "D", "text": "Exophthalmos" },
+        { "id": "E", "text": "Hyperthyroidism" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 6,
+      "question": "In Hypospadias:",
+      "options": [
+        { "id": "A", "text": "The urethral meatus is in its normal location" },
+        { "id": "B", "text": "The urethral meatus is in the under surface of the penis" },
+        { "id": "C", "text": "The urethral meatus is in the upper surface of the penis" },
+        { "id": "D", "text": "The testis is retractile" },
+        { "id": "E", "text": "The testis is in the inguinal canal" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 7,
+      "question": "Digital examination of Pouch of Douglas, which is true:",
+      "options": [
+        { "id": "A", "text": "Vaginal fingers in the posterior fornix" },
+        { "id": "B", "text": "Fingers in anal canal" },
+        { "id": "C", "text": "Fingers at perineum" },
+        { "id": "D", "text": "Vaginal fingers in the anterior fornix" },
+        { "id": "E", "text": "Vaginal fingers in the cervical canal" }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 8,
+      "question": "In undescended testis, the testis cannot be present in one of these sites:",
+      "options": [
+        { "id": "A", "text": "Inguinal canal" },
+        { "id": "B", "text": "Internal inguinal ring" },
+        { "id": "C", "text": "External inguinal ring" },
+        { "id": "D", "text": "Bottom of scrotum" },
+        { "id": "E", "text": "None of the above" }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 9,
+      "question": "Best skin suturing technique for cosmosis:",
+      "options": [
+        { "id": "A", "text": "Interrupted simple" },
+        { "id": "B", "text": "Continuous simple" },
+        { "id": "C", "text": "Vertical mattress" },
+        { "id": "D", "text": "Transverse mattress" },
+        { "id": "E", "text": "Figure of eight" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a wrong handling of instruments:",
+      "options": [
+        { "id": "A", "text": "Thumb and ring finger (needle holder and mosquito)" },
+        { "id": "B", "text": "Thumb and middle finger (scissors)" },
+        { "id": "C", "text": "Thumb and index finger (toothed forceps)" },
+        { "id": "D", "text": "Hold tip of thread by tip of instrument" },
+        { "id": "E", "text": "Hold tip of needle by middle of jaw of needle holder" }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": 11,
+      "question": "Which one of the following need stitches:",
+      "options": [
+        { "id": "A", "text": "Dog bite" },
+        { "id": "B", "text": "Skin cut wound" },
+        { "id": "C", "text": "Abscess" },
+        { "id": "D", "text": "Burn" },
+        { "id": "E", "text": "Abrasion" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which is not a cause of hypothermia:",
+      "options": [
+        { "id": "A", "text": "Myxedema" },
+        { "id": "B", "text": "Starvation" },
+        { "id": "C", "text": "Shock" },
+        { "id": "D", "text": "Old age" },
+        { "id": "E", "text": "Thyrotoxic crisis" }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": 13,
+      "question": "Enlarged dilated elongated veins of pampiniform plexus is considered:",
+      "options": [
+        { "id": "A", "text": "Varicocele" },
+        { "id": "B", "text": "Hematocele" },
+        { "id": "C", "text": "Hydrocele" },
+        { "id": "D", "text": "Scrotal pyocele" },
+        { "id": "E", "text": "Scrotal hematoma" }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 14,
+      "question": "One of the following is abnormal scrotal finding:",
+      "options": [
+        { "id": "A", "text": "Contents should slide easily" },
+        { "id": "B", "text": "Testes are oval, smooth, rubbery, firm bilaterally" },
+        { "id": "C", "text": "Testes mobile" },
+        { "id": "D", "text": "Right testicle may be lower than left" },
+        { "id": "E", "text": "Testes are tender by moderate pressure" }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": 15,
+      "question": "The statement reflects the speed of absorption of medications from slowest to fastest injection types:",
+      "options": [
+        { "id": "A", "text": "Intramuscular, subcutaneous, intradermal" },
+        { "id": "B", "text": "Subcutaneous, intradermal, intramuscular" },
+        { "id": "C", "text": "Intradermal, subcutaneous, intramuscular" },
+        { "id": "D", "text": "Subcutaneous, intramuscular, intradermal" },
+        { "id": "E", "text": "Subcutaneous, intravenous, intramuscular" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 16,
+      "question": "What is the preferred site of intramuscular injection in infants and children:",
+      "options": [
+        { "id": "A", "text": "Dorsogluteal sites" },
+        { "id": "B", "text": "Ventrogluteal sites" },
+        { "id": "C", "text": "Deltoid site" },
+        { "id": "D", "text": "Vastus medialis muscle" },
+        { "id": "E", "text": "Vastus lateralis muscle" }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is the correct needle angle to use when performing an intramuscular injection:",
+      "options": [
+        { "id": "A", "text": "5–15" },
+        { "id": "B", "text": "15–45" },
+        { "id": "C", "text": "45–90" },
+        { "id": "D", "text": "90–120" },
+        { "id": "E", "text": "90" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 18,
+      "question": "In severe aortic valve regurgitation, Hill’s sign refers to increased systolic blood pressure in lower limb more than upper limb by:",
+      "options": [
+        { "id": "A", "text": "20 mmHg or greater" },
+        { "id": "B", "text": "30 mmHg or greater" },
+        { "id": "C", "text": "40 mmHg or greater" },
+        { "id": "D", "text": "50 mmHg or greater" },
+        { "id": "E", "text": "60 mmHg or greater" }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 19,
+      "question": "The number one vein of choice for venipuncture in the antecubital fossa is:",
+      "options": [
+        { "id": "A", "text": "Basilic" },
+        { "id": "B", "text": "Cephalic" },
+        { "id": "C", "text": "Median cubital" },
+        { "id": "D", "text": "Brachial" },
+        { "id": "E", "text": "Axillary" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 20,
+      "question": "Transitional zone care of new born does not observe for the following:",
+      "options": [
+        { "id": "A", "text": "Hypothermia" },
+        { "id": "B", "text": "Pallor" },
+        { "id": "C", "text": "Jaundice" },
+        { "id": "D", "text": "Respiratory distress" },
+        { "id": "E", "text": "Hypothyroidism" }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": 21,
+      "question": "Cusco speculum is used for examination of:",
+      "options": [
+        { "id": "A", "text": "Urethra" },
+        { "id": "B", "text": "Vagina" },
+        { "id": "C", "text": "Cervix" },
+        { "id": "D", "text": "External urethral meatus" },
+        { "id": "E", "text": "Ovaries" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 22,
+      "question": "One of the following is not sign of dehydration:",
+      "options": [
+        { "id": "A", "text": "Sunken eyes" },
+        { "id": "B", "text": "Shivering" },
+        { "id": "C", "text": "Skin pinching goes back slowly" },
+        { "id": "D", "text": "Patient is irritable" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 23,
+      "question": "Arterial pulse is weak in the following case:",
+      "options": [
+        { "id": "A", "text": "Hyperthermia" },
+        { "id": "B", "text": "Exercise" },
+        { "id": "C", "text": "Hyperthyroidism" },
+        { "id": "D", "text": "Hypovolemic shock" },
+        { "id": "E", "text": "Pregnancy" }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 24,
+      "question": "At one of the following level of reduced hemoglobin we can see cyanosis:",
+      "options": [
+        { "id": "A", "text": "3.5 gm" },
+        { "id": "B", "text": "4 gm" },
+        { "id": "C", "text": "4.5 gm" },
+        { "id": "D", "text": "4.3 gm" },
+        { "id": "E", "text": "7 gm" }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": 25,
+      "question": "Connection of ECG V4 cable occurs at:",
+      "options": [
+        { "id": "A", "text": "Fourth intercostal space just right to the sternum" },
+        { "id": "B", "text": "Left fifth intercostal space midaxillary line" },
+        { "id": "C", "text": "Left fifth intercostal space anterior axillary line" },
+        { "id": "D", "text": "Right fifth intercostal space midclavicular line" },
+        { "id": "E", "text": "Left fifth intercostal space midclavicular line" }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": 26,
+      "question": "The following is false about aerochamber:",
+      "options": [
+        { "id": "A", "text": "Used mainly in bronchial asthma" },
+        { "id": "B", "text": "Used in cardiac asthma with pulmonary oedema" },
+        { "id": "C", "text": "Used mainly in children and old people who can’t use the inhaler alone" },
+        { "id": "D", "text": "Reduced need for coordination when pressing the inhaler and breathing in the medicine" },
+        { "id": "E", "text": "Not used in cardiac asthma with pulmonary oedema" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is correct about surface anatomy of the spleen:",
+      "options": [
+        { "id": "A", "text": "Lies parallel to the ribs number 10, 11, 12 on the right side" },
+        { "id": "B", "text": "Lies parallel to the ribs number 10, 11, 12 on the left side" },
+        { "id": "C", "text": "The medial end lies 1½ inches from the spine of T8" },
+        { "id": "D", "text": "The long axis lies parallel to the 10th left rib" },
+        { "id": "E", "text": "The lateral end lies just at anterior axillary line" }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 28,
+      "question": "One of the following is true about Bartholin’s glands:",
+      "options": [
+        { "id": "A", "text": "Endocrine glands secrete estrogen hormone" },
+        { "id": "B", "text": "Exocrine glands secrete progesterone hormone" },
+        { "id": "C", "text": "Lubrication of vagina" },
+        { "id": "D", "text": "Present in endometrium" },
+        { "id": "E", "text": "Present in the cervix" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 29,
+      "question": "During preparing the patient for venipuncture which is false:",
+      "options": [
+        { "id": "A", "text": "Introduce yourself and ask for patient name" },
+        { "id": "B", "text": "Ask whether the patient has allergies, phobias from injections" },
+        { "id": "C", "text": "Make the patient comfortable in prone position" },
+        { "id": "D", "text": "Place a clean paper or towel under the arm" },
+        { "id": "E", "text": "Discuss the procedure and obtain verbal consent" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 30,
+      "question": "Venipuncture complications include:",
+      "options": [
+        { "id": "A", "text": "Allergies–adhesive, antiseptic, latex" },
+        { "id": "B", "text": "Bleeding due to medications, hemophilia" },
+        { "id": "C", "text": "Fainting" },
+        { "id": "D", "text": "Pain while drawing (do not stop drawing)" },
+        { "id": "E", "text": "All of the above" }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": 31,
+      "question": "Which is the most common and non-invasive way to measure a patient’s oxygenation?:",
+      "options": [
+        { "id": "A", "text": "CPAP" },
+        { "id": "B", "text": "Pulse oximeter" },
+        { "id": "C", "text": "Ventilator" },
+        { "id": "D", "text": "Arterial blood gas (ABG)" },
+        { "id": "E", "text": "Chest palpation" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 32,
+      "question": "The term dyspareunia means:",
+      "options": [
+        { "id": "A", "text": "Abnormal pain during micturition" },
+        { "id": "B", "text": "Abnormal pain during defecation" },
+        { "id": "C", "text": "Abnormal pain during menstruation" },
+        { "id": "D", "text": "Abnormal pain during sexual intercourse" },
+        { "id": "E", "text": "Abnormal pain during purgation" }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 33,
+      "question": "Auscultatory method of measuring arterial blood pressure which is true:",
+      "options": [
+        { "id": "A", "text": "Can measure systolic blood pressure only" },
+        { "id": "B", "text": "Can measure diastolic blood pressure only" },
+        { "id": "C", "text": "The correct cuff size to measure blood pressure should not exceed the distance between axilla and cubital fossa" },
+        { "id": "D", "text": "It is not more accurate than palpatory method" },
+        { "id": "E", "text": "It is clinical value" }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 34,
+      "question": "The appropriate cuff size to measure blood pressure should not exceed the distance between:",
+      "options": [
+        { "id": "A", "text": "Axilla and cubital fossa" },
+        { "id": "B", "text": "Wrist and cubital fossa" },
+        { "id": "C", "text": "Shoulder and elbow" },
+        { "id": "D", "text": "Elbow and wrist" },
+        { "id": "E", "text": "1/3" }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 35,
+      "question": "One of the following is not true in normal respiration in adults:",
+      "options": [
+        { "id": "A", "text": "Regular" },
+        { "id": "B", "text": "18–35 cycle/min in rate" },
+        { "id":S": "C", "text": "Average depth" },
+        { "id": "D", "text": "Thoraco-abdominal in females" },
+        { "id": "E", "text": "Abdomino-thoracic in males" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 36,
+      "question": "Pulsus bisferiens is better felt on:",
+      "options": [
+        { "id": "A", "text": "Carotid artery with thumb" },
+        { "id": "B", "text": "Radial artery with middle finger" },
+        { "id": "C", "text": "Axillary artery with thumb" },
+        { "id": "D", "text": "Dorsalis pedis artery with middle three fingers" },
+        { "id": "E", "text": "Femoral artery with thumb" }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 37,
+      "question": "Overweight is defined as BMI:",
+      "options": [
+        { "id": "A", "text": ">29" },
+        { "id": "B", "text": ">35" },
+        { "id": "C", "text": "25–29.9" },
+        { "id": "D", "text": "20–29.9" },
+        { "id": "E", "text": "25–35" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 38,
+      "question": "One of the following not cause tall stature:",
+      "options": [
+        { "id": "A", "text": "Hypogonadism" },
+        { "id": "B", "text": "Gigantism" },
+        { "id":CSS": "C", "text": "Turner’s syndrome" },
+        { "id": "D", "text": "Marfan’s syndrome" },
+        { "id": "E", "text": "Familial" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 39,
+      "question": "In female genital examination, the correct examination position is:",
+      "options": [
+        { "id": "A", "text": "Supine position" },
+        { "id": "B", "text": "Erect position" },
+        { "id": "C", "text": "Lithotomy position" },
+        { "id": "D", "text": "Left lateral position" },
+        { "id": "E", "text": "Right lateral position" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 40,
+      "question": "What is the commonest complication of not switching the site regularly for subcutaneous injection?",
+      "options": [
+        { "id": "A", "text": "Fat necrosis" },
+        { "id": "B", "text": "Hematoma" },
+        { "id": "C", "text": "Infection" },
+        { "id": "D", "text": "More absorption of the drug" },
+        { "id": "E", "text": "Leakage of the drug subcutaneously" }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 41,
+      "question": "The axillary lymph nodes not include:",
+      "options": [
+        { "id": "A", "text": "Apical group lymph nodes" },
+        { "id": "B", "text": "Supraclavicular group lymph nodes" },
+        { "id": "C", "text": "Central group lymph nodes" },
+        { "id": "D", "text": "Posterior group lymph nodes" },
+        { "id": "E", "text": "Pectoral group lymph nodes" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 42,
+      "question": "Secondary wound closure includes:",
+      "options": [
+        { "id": "A", "text": "Wound closure within 4–12 hours" },
+        { "id": "B", "text": "Wound closure after 24 hours" },
+        { "id": "C", "text": "Wound closure after 7 days" },
+        { "id": "D", "text": "Leaving the wound without closure" },
+        { "id": "E", "text": "Closure of wound after debridement" }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is not natural sutures:",
+      "options": [
+        { "id": "A", "text": "Cat gut" },
+        { "id": "B", "text": "Cotton" },
+        { "id": "C", "text": "Linen" },
+        { "id":CSS": "D", "text": "Silk" },
+        { "id": "E", "text": "Braided polyesters" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 44,
+      "question": "Routine screening of newborn include:",
+      "options": [
+        { "id": "A", "text": "X-ray of ankle joint" },
+        { "id": "B", "text": "Liver enzymes" },
+        { "id": "C", "text": "Congenital hypothyroidism" },
+        { "id": "D", "text": "Cardiac imaging" },
+        { "id": "E", "text": "Renal functions" }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": 45,
+      "question": "Pelvic mass is best examined by:",
+      "options": [
+        { "id": "A", "text": "Deep abdominal palpation" },
+        { "id": "B", "text": "Bimanual vaginal examination" },
+        { "id":CSS": "C", "text": "Separation of labia majora and bearing down" },
+        { "id": "D", "text": "Cusco speculum" },
+        { "id": "E", "text": "Superficial abdominal palpation" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 46,
+      "question": "After insertion of cannula and flush by normal saline you noticed pain and swelling, the following should be done:",
+      "options": [
+        { "id": "A", "text": "Continue injection of more normal saline and pain will relieve" },
+        { "id": "B", "text": "Stop infusion and remove cannula" },
+        { "id": "C", "text": "Fix cannula and start medicine injection" },
+        { "id": "D", "text": "Infusion of analgesic to relieve pain" },
+        { "id": "E", "text": "Apply tourniquet proximally" }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": 47,
+      "question": "During routine examination after delivery which of the following need urgent transfer to neonatal intensive care unit (NICU):",
+      "options": [
+        { "id": "A", "text": "Tachypnea with respiratory distress" },
+        { "id": "B", "text": "Baby is pink with mild peripheral cyanosis" },
+        { "id": "C", "text": "Baby heart rate of 130 beat/minute" },
+        { "id": "D", "text": "Baby pass stool once/day only" },
+        { "id": "E", "text": "Baby with uncomplicated inguinal hernia" }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 48,
+      "question": "About palpation of radial pulse which statement is incorrect:",
+      "options": [
+        { "id": "A", "text": "Atrial fibrillation is a common example of irregular pulse" },
+        { "id": "B", "text": "Normal pulse rate is 60–90 beats per minute" },
+        { "id": "C", "text": "The radial artery is regular wall" },
+        { "id": "D", "text": "Pulse is normally unequal in both sides" },
+        { "id": "E", "text": "Pregnancy causes rapid pulse rate" }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": 49,
+      "question": "Jaundice is best seen in:",
+      "options": [
+        { "id": "A", "text": "Sclera of the eye" },
+        { "id": "B", "text": "Palmar creases" },
+        { "id": "C", "text": "Nail beds" },
+        { "id": "D", "text": "Inner side of lips" },
+        { "id": "E", "text": "Ear lobule" }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": 50,
+      "question": "When we examine facial complexion, we mean examining colours like these except:",
+      "options": [
+        { "id": "A", "text": "Jaundice" },
+        { "id": "B", "text": "Cyanosis" },
+        { "id": "C", "text": "Urine colour" },
+        { "id": "D", "text": "Pallor" },
+        { "id": "E", "text": "Hyperpigmentation" }
+      ],
+      "correct": "C"
+    }
+  ]
+}
