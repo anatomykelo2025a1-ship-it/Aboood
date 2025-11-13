@@ -261,7 +261,8 @@
         { "id": "A", "text": "Sunken eyes" },
         { "id": "B", "text": "Shivering" },
         { "id": "C", "text": "Skin pinching goes back slowly" },
-        { "id": "D", "text": "Patient is irritable" }
+        { "id": "D", "text": "Patient is irritable" },
+        { "id": "E", "text": "Dry mucous membrane" }
       ],
       "correct": "B"
     },
@@ -415,7 +416,7 @@
       "options": [
         { "id": "A", "text": "Regular" },
         { "id": "B", "text": "18–35 cycle/min in rate" },
-        { "id":S": "C", "text": "Average depth" },
+        { "id": "C", "text": "Average depth" },
         { "id": "D", "text": "Thoraco-abdominal in females" },
         { "id": "E", "text": "Abdomino-thoracic in males" }
       ],
@@ -451,7 +452,7 @@
       "options": [
         { "id": "A", "text": "Hypogonadism" },
         { "id": "B", "text": "Gigantism" },
-        { "id":CSS": "C", "text": "Turner’s syndrome" },
+        { "id": "C", "text": "Turner’s syndrome" },
         { "id": "D", "text": "Marfan’s syndrome" },
         { "id": "E", "text": "Familial" }
       ],
@@ -512,7 +513,7 @@
         { "id": "A", "text": "Cat gut" },
         { "id": "B", "text": "Cotton" },
         { "id": "C", "text": "Linen" },
-        { "id":CSS": "D", "text": "Silk" },
+        { "id": "D", "text": "Silk" },
         { "id": "E", "text": "Braided polyesters" }
       ],
       "correct": "B"
@@ -535,7 +536,7 @@
       "options": [
         { "id": "A", "text": "Deep abdominal palpation" },
         { "id": "B", "text": "Bimanual vaginal examination" },
-        { "id":CSS": "C", "text": "Separation of labia majora and bearing down" },
+        { "id": "C", "text": "Separation of labia majora and bearing down" },
         { "id": "D", "text": "Cusco speculum" },
         { "id": "E", "text": "Superficial abdominal palpation" }
       ],
